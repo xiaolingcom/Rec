@@ -6,7 +6,7 @@
 
 
 
-![1563506224121](C:\Users\大龙\AppData\Roaming\Typora\typora-user-images\1563506224121.png)
+![图2.1](../img/2.1.png)
 
 2.代价函数
 
@@ -32,7 +32,7 @@ $$
 
 对于线性回归问题，常用的一种方法就是*梯度下降*
 
-![1563507446719](C:\Users\大龙\AppData\Roaming\Typora\typora-user-images\1563507446719.png)
+![图2.2](../img/2.2.png)
 
 梯度下降算法的一种直观感受(intuition)：
 
