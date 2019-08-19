@@ -25,17 +25,18 @@
 
 3.学的同时可以看论文
 
-> [协同过滤(CF)]: ./paper/CollaborativeFilteringRec/	"链接"
+> [协同过滤(CF)](./paper/CollaborativeFilteringRec)
 >
 > 1. CF-NADE
 > 2. CF-UIcA
 > 3. NCF
 >
-> [社交推荐（SR）]: ./paper/SocialRec/	"链接"
+> [社交推荐（SR）](./paper/SocialRec)
 >
 > 1. GraphRec（及阅读笔记）
-
-...待更...
-           
+>
+> ...待更...
+>            
+>
 
   
